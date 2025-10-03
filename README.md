@@ -1,2 +1,5 @@
 # Taller-4
-Taller 4 Oriana Tayakee Jeison Lagos
+Integrantes
+
+Jeison_Andres_Lagos_Baez
+Tayakee_Demetrio_Oriana
